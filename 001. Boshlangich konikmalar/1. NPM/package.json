@@ -1,0 +1,17 @@
+{
+  "name": "npm-beginners",
+  "version": "1.0.0",
+  "description": "Npm ni organish",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "Diyorbek Rustamjonov <drustmajonov0919@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

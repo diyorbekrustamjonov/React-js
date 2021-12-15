@@ -1,0 +1,12 @@
+NPM(Node Package Manager) bu => Serverdan kerakli kutubhanni olib ishlatishga kerak boladi yani npm server ga borib kerakli kutubxona yoki freamwork ni olib kelib beradi
+
+Loyihani boshlashdan oldin biz buni yaratib olishimiz kerak boladi
+> npm init
+
+Kutubxona yoki Freemwork larni ornatish uchun
+
+Hozir ochga loyihamiz ichiga ornatish uchun
+> npm install libr_name
+
+Globalniyga ornatish uchun 
+> npm install -g libr_name

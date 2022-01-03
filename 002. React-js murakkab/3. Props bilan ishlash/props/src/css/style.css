@@ -1,0 +1,8 @@
+.app{
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 1);
+    padding: 20px;
+    margin-top: 20px;
+    width: 500px;
+    min-height: 60vh;
+}
